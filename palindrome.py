@@ -4,7 +4,6 @@ list2.reverse()
 
 #condition to check if the list is palindrome
 
-'''
 if list1 == list2:
   print("Palindrome")
 else:
